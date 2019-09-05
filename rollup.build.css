@@ -1,0 +1,10 @@
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+.l-main {
+  padding-top: 0;
+}
+div {
+  font-size: 0;
+}
